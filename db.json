@@ -1,0 +1,54 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Test name",
+      "type": "sql",
+      "description": "Test description",
+      "running": true,
+      "archive": false
+    },
+    {
+      "id": 2,
+      "name": "Test name 2",
+      "type": "http",
+      "description": "Test description 2",
+      "running": false,
+      "archive": true
+    },
+    {
+      "id": 3,
+      "name": "Test name 2",
+      "type": "log",
+      "description": "Test description 2",
+      "running": true,
+      "archive": false
+    },
+    {
+      "id": 1337,
+      "name": "Test name 2",
+      "type": "sql",
+      "description": "Test description 2",
+      "running": true,
+      "archive": false
+    },
+    {
+      "id": 2345,
+      "name": "Test name 2",
+      "type": "sql",
+      "description": "Test description 2",
+      "running": true,
+      "archive": false
+    },
+    {
+      "id": 10009,
+      "name": "Test name 2",
+      "type": "http",
+      "description": "Test description 2",
+      "running": false,
+      "archive": true
+    }
+  ],
+  "status": "success",
+  "error": null
+}
